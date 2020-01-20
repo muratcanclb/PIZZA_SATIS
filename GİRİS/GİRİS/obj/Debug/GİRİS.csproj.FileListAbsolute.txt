@@ -1,0 +1,81 @@
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.csprojResolveAssemblyReference.cache
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.Cache
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
+C:\Users\BBM LAB\Desktop\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csprojResolveAssemblyReference.cache
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.Cache
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SEPETEEKLE.Form4.resources
+D:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.HAKKIMIZDA.Form5.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csprojAssemblyReference.cache
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.HAKKIMIZDA.Form5.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SEPETEEKLE.Form4.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.cache
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.CoreCompileInputs.cache
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+G:\FLASH BELLEK\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.HAKKIMIZDA.Form5.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SEPETEEKLE.Form4.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+C:\Users\Asus\Desktop\FLASH BELLEK\PROGRAMLAMA DERSLERİ\C#\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.Cache
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.HAKKIMIZDA.Form5.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SEPETEEKLE.Form4.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.Cache
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.PROFİL.user.resources
+C:\Users\MURAT\Desktop\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.KAYITOL.kayıt.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe.config
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.exe
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\bin\Debug\GİRİS.pdb
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csprojResolveAssemblyReference.cache
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Form1.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.HAKKIMIZDA.Form5.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.KAYITOL.kayıt.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.PROFİL.user.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.Properties.Resources.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SEPETEEKLE.Form4.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.SİPARİŞBİLGİ.Form3.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.ULASIMBİLGİ.Form2.resources
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.csproj.GenerateResource.Cache
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.exe
+C:\Users\MURAT\Desktop\C#-PROJE\PİZZA_OTOMASYONU\GİRİS\GİRİS\obj\Debug\GİRİS.pdb
